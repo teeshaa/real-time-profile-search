@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+aiohttp
+pydantic
+pydantic-settings
+litellm
+tavily-python
+colorama
+streamlit
